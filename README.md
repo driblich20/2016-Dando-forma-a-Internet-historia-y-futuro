@@ -8,8 +8,8 @@ Para subir sus anotaciones pueden mandarme sus apuntes en texto plano (un docume
 
 - Nombre del integrante
 - Nombre del módulo cursado
-- Descripción (Máximo 15 paáginas)
 - Fecha del envío
+- Descripción (Máximo 15 paáginas)
 - Opcional: Si desean poner fotos, les recomiendo que hagan un documento WORD, y ahi puedan escribir
 todos sus comentarios, anotaciones y demás, acompañadas con sus fotos en el lugar que crean correcto.
 
